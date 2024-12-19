@@ -19,7 +19,7 @@ const projects = [
     description:
       "A beautiful and intuitive task management application built with React",
     image:
-      "/public/input-validator.png",
+      "/input-validator.png",
     github: "https://github.com",
     demo: "https://vercel.com/harshvj03s-projects/input-validator-9cli",
     imageStyle: {
@@ -30,7 +30,7 @@ const projects = [
     title: "Budget Dashboard",
     description: "Real-time weather tracking app with beautiful visualizations",
     image:
-      "/public/fire-dashboard-img.png",
+      "/fire-dashboard-img.png",
     github: "https://github.com/harshvj03/fire-ai-dashboard/tree/main",
     demo: "https://fire-ai-dashboard-new.vercel.app/",
     imageStyle: {
